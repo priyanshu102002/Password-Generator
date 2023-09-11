@@ -15,5 +15,5 @@
 * Tailwind CSS : A utility-first CSS framework that facilitates rapid UI development and ensures a polished design.
 * React : A popular JavaScript library for building user interfaces, providing interactivity and seamless updates for a dynamic user experience.
 
--> Link: https://securepassgen.netlify.app/
+-> Link : https://securepassgen.netlify.app/
 
