@@ -17,4 +17,3 @@
 
 -> Link: https://securepassgen.netlify.app/
 
-<u>GitHub</u>
