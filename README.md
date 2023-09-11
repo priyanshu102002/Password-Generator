@@ -4,7 +4,7 @@ The Password Generator website is a user-friendly tool designed to help you crea
 
 -> Key Features:
 
-> Random Password Generation: Easily generate strong and unpredictable passwords.
+* Random Password Generation: Easily generate strong and unpredictable passwords.
 > Customizable Length: Adjust the password length using a convenient slider control.
 > Special Characters: Choose to include special characters in your password for added complexity.
 > Numbers: Optionally add numbers to your password for increased diversity.
